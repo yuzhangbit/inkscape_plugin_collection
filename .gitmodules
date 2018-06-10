@@ -1,0 +1,3 @@
+[submodule "inkscape_rounded_corners_rect"]
+	path = inkscape_rounded_corners_rect
+	url = https://github.com/monomon/inkscape_rounded_corners_rect.git
